@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/f0ssel/secreteer/issues"
   },
-  "homepage": "https://github.com/f0ssel/secreteer#readme"
+  "homepage": "https://github.com/f0ssel/secreteer#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^2.0.0",
+    "@google-cloud/storage": "^2.0.3",
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "googleapis": "^34.0.0"
+  }
 }
